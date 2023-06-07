@@ -109,6 +109,11 @@ header .navbar-nav .nav-link {
     color: #fff;
 }
 
+.over-view li {
+    color: white;
+    /* margin-top: -15px; */
+}
+
 header .navbar-nav .nav-link .animatelink {
     position: absolute;
     left: 0;
