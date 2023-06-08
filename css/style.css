@@ -1203,7 +1203,7 @@ img {
 
 .hero-bottom ul li span {
     font-size: 25px;
-    color: #482673;
+    color: #ffffff;
     font-family: "Maison Neue";
     line-height: 1;
 }
@@ -1759,13 +1759,13 @@ img {
 /************** Footer **************/
 
 footer {
-    background: #000;
+    background: #482673;
     padding: 15px 0px 15px;
     text-align: center;
 }
 
 footer p {
-    color: rgba(255, 255, 255, 0.3);
+    color: white;
     margin-bottom: 0;
     font-size: 18px;
     text-transform: capitalize;
